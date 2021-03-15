@@ -4,7 +4,7 @@ import Foundation
 
 let modulesPath = "Modules"
 
-(1..<300).forEach { index in
+(1..<1000).forEach { index in
 
     let moduleName = "JRModule\(index)"
 

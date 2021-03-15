@@ -12,7 +12,7 @@ install! 'cocoapods',
 target 'frameworkTest' do
     pod 'Neon', git: 'https://github.com/KosyanMedia/Neon.git', commit: '3770df30ee072a728becb8f1f6b7c29276a3dab4'
 
-    (1...300).step do |index|
+    (1...1000).step do |index|
       pod "JRModule#{index}", path: "Modules"
     end
 
