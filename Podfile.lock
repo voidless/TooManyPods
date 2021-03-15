@@ -1,0 +1,22 @@
+PODS:
+  - Neon (0.4.0)
+
+DEPENDENCIES:
+  - Neon (from `https://github.com/KosyanMedia/Neon.git`, commit `3770df30ee072a728becb8f1f6b7c29276a3dab4`)
+
+EXTERNAL SOURCES:
+  Neon:
+    :commit: 3770df30ee072a728becb8f1f6b7c29276a3dab4
+    :git: https://github.com/KosyanMedia/Neon.git
+
+CHECKOUT OPTIONS:
+  Neon:
+    :commit: 3770df30ee072a728becb8f1f6b7c29276a3dab4
+    :git: https://github.com/KosyanMedia/Neon.git
+
+SPEC CHECKSUMS:
+  Neon: 7fb5a9327e7e57911843f608e08f4893a74deaf9
+
+PODFILE CHECKSUM: 8455f56e5cfd06c7f4c27f98b44e96c85ee829c4
+
+COCOAPODS: 1.10.1
