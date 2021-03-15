@@ -51,3 +51,7 @@ as-template/vendor/AviasalesKit/FileResources
 # ASTemplate build files
 ASTemplate_dependencies.txt
 ASTemplate_resources.txt
+
+
+
+Modules/*.podspec
